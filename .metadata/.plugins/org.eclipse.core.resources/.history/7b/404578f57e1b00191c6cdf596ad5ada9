@@ -1,0 +1,19 @@
+package com.NewTours.utility;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.BeforeTest;
+
+public class BaseClass
+{
+	public static WebDriver driver;
+	public String url="http://newtours.demoaut.com";
+	
+	@BeforeTest
+	public static void setUp()
+	{
+		driver = new FirefoxDriver();
+		driver.get(url);
+	}
+	
+}

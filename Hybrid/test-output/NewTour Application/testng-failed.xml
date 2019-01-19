@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [NewTour Application]" parallel="tests">
+  <test name="NewTours UserRegistration(failed)" parallel="tests">
+    <classes>
+      <class name="com.OHRM.testScripts.TC_102">
+        <methods>
+          <include name="testRun2"/>
+        </methods>
+      </class> <!-- com.OHRM.testScripts.TC_102 -->
+    </classes>
+  </test> <!-- NewTours UserRegistration(failed) -->
+</suite> <!-- Failed suite [NewTour Application] -->

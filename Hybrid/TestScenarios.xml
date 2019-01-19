@@ -1,0 +1,14 @@
+<suite name="NewTour Application">
+  <test name="LogIn Test">
+    <classes>
+	<class name="com.OHRM.testScripts.TC_101"/>
+   </classes>
+ </test>
+ 
+ <test name="NewTours UserRegistration">
+    <classes>
+	<class name="com.OHRM.testScripts.TC_102"/>
+   </classes>
+ </test>
+ 
+</suite>

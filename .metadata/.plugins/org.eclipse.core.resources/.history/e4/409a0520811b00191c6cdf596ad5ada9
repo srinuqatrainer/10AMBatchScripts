@@ -1,0 +1,37 @@
+package com.NewTours.TestScripts;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+import com.NewTours.pages.WelcomeMercuryTours;
+
+public class TC_101 
+
+{
+	public static WebDriver driver;
+	public static String url="http://newtours.demoaut.com";
+	
+	@BeforeTest
+	public void setUp()
+	{
+		driver = new FirefoxDriver();
+		driver.get(url);
+	}
+	
+	@AfterTest
+	public void tearDown()
+	{
+		driver.quit();
+	}
+	
+	@Test
+	public void homePageTesting()
+	{
+		WelcomeMercuryTours wmt = PageFactory.initElements(driver, WelcomeMercuryTours.class);
+		
+	}
+}

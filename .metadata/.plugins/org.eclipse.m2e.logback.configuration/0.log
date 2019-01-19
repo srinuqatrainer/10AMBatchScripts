@@ -1,0 +1,162 @@
+2019-01-18 11:35:20,245 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml
+2019-01-18 11:35:27,432 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:35:31,213 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-18 11:35:31,323 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-18 11:35:31,807 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2019-01-18 11:35:32,822 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:35:32,822 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:35:32,838 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:35:32,838 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:42:13,544 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:42:14,622 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/3.6.0/selenium-server-3.6.0.pom
+2019-01-18 11:42:14,934 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/3.6.0/selenium-server-3.6.0.pom
+2019-01-18 11:42:15,122 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.pom
+2019-01-18 11:42:15,309 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.pom
+2019-01-18 11:42:15,465 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2019-01-18 11:42:15,622 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.pom
+2019-01-18 11:42:15,794 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.pom
+2019-01-18 11:42:15,950 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.pom
+2019-01-18 11:42:16,106 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2019-01-18 11:42:16,340 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.pom
+2019-01-18 11:42:17,262 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.pom
+2019-01-18 11:42:17,403 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.pom
+2019-01-18 11:42:17,575 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2019-01-18 11:42:17,747 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.pom
+2019-01-18 11:42:17,918 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.pom
+2019-01-18 11:42:18,122 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.pom
+2019-01-18 11:42:18,293 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.pom
+2019-01-18 11:42:18,465 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.pom
+2019-01-18 11:42:18,637 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.pom
+2019-01-18 11:42:18,871 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.pom
+2019-01-18 11:42:19,075 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.pom
+2019-01-18 11:42:19,231 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.pom
+2019-01-18 11:42:22,215 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/3.6.0/selenium-server-3.6.0.jar
+2019-01-18 11:42:23,262 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-server/3.6.0/selenium-server-3.6.0.jar
+2019-01-18 11:42:23,435 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.jar
+2019-01-18 11:42:23,622 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/3.6.0/selenium-java-3.6.0.jar
+2019-01-18 11:42:23,779 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2019-01-18 11:42:24,103 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.6.0/selenium-api-3.6.0.jar
+2019-01-18 11:42:24,260 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.jar
+2019-01-18 11:42:24,483 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/3.6.0/selenium-chrome-driver-3.6.0.jar
+2019-01-18 11:42:24,627 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.jar
+2019-01-18 11:42:24,847 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-edge-driver/3.6.0/selenium-edge-driver-3.6.0.jar
+2019-01-18 11:42:24,988 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2019-01-18 11:42:25,661 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-firefox-driver/3.6.0/selenium-firefox-driver-3.6.0.jar
+2019-01-18 11:42:25,831 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.jar
+2019-01-18 11:42:26,091 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-ie-driver/3.6.0/selenium-ie-driver-3.6.0.jar
+2019-01-18 11:42:26,247 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.jar
+2019-01-18 11:42:26,557 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-opera-driver/3.6.0/selenium-opera-driver-3.6.0.jar
+2019-01-18 11:42:26,697 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2019-01-18 11:42:27,345 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-remote-driver/3.6.0/selenium-remote-driver-3.6.0.jar
+2019-01-18 11:42:27,487 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.jar
+2019-01-18 11:42:27,716 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-safari-driver/3.6.0/selenium-safari-driver-3.6.0.jar
+2019-01-18 11:42:27,852 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.jar
+2019-01-18 11:42:28,109 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-support/3.6.0/selenium-support-3.6.0.jar
+2019-01-18 11:42:28,257 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2019-01-18 11:42:29,182 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+2019-01-18 11:42:43,890 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:42:43,905 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:42:43,918 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:42:43,918 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:42:47,280 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:42:47,280 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:42:47,280 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:42:47,280 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:44:10,586 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:44:12,007 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:12,007 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:44:12,023 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:12,023 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:44:14,538 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:14,538 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:44:14,538 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:14,554 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:44:32,490 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:32,506 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:44:32,506 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:32,522 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:44:39,099 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:39,099 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:44:39,099 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:44:39,130 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:45:01,113 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:01,145 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:45:01,160 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:01,176 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:45:15,956 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:15,956 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:45:15,956 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:15,972 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:45:22,971 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:22,971 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:45:22,971 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:45:22,987 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:47:59,918 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:47:59,918 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:47:59,918 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:47:59,950 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:50:21,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:50:21,673 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:50:21,689 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:50:21,705 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:52:32,799 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:52:32,799 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:52:32,799 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:52:32,814 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:54:12,557 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:54:16,447 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:54:16,463 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:54:16,479 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:54:16,479 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:54:19,900 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:54:19,900 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:54:20,291 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:54:20,338 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:56:25,921 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-18 11:56:26,530 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:56:27,264 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-18 11:56:27,264 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-18 11:56:27,608 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-18 11:56:28,561 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:56:28,577 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:56:28,592 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:56:28,608 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:56:38,138 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-18 11:56:38,732 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:56:39,404 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-18 11:56:39,420 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-18 11:56:39,701 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-18 11:56:40,701 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:56:40,701 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:56:40,716 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:56:40,716 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:57:00,083 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject
+2019-01-18 11:57:00,083 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-01-18 11:57:04,825 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:57:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:57:21,722 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-18 11:57:22,350 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:57:23,006 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-18 11:57:23,022 [Worker-43] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-18 11:57:23,287 [Worker-43] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-18 11:57:24,287 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:24,303 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:57:24,303 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:24,319 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:57:31,163 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-01-18 11:57:31,804 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.NewTest:MyMavenProject:0.0.1-SNAPSHOT @ C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\pom.xml.
+2019-01-18 11:57:32,460 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/main/java
+2019-01-18 11:57:32,476 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MyMavenProject/src/test/java
+2019-01-18 11:57:32,741 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-01-18 11:57:33,694 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:33,694 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:57:33,710 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:57:33,726 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources
+2019-01-18 11:57:39,591 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject
+2019-01-18 11:57:39,591 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-01-18 11:58:49,328 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:58:49,328 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\main\resources
+2019-01-18 11:58:49,328 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-18 11:58:49,344 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\srinivas1\Desktop\10AMBatch\MyMavenProject\src\test\resources

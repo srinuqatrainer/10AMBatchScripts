@@ -1,0 +1,7 @@
+2019-01-07 12:20:23,174 - NewTours_LogInTest -INFO - Firefox browser opened successfully
+2019-01-07 12:20:25,220 - NewTours_LogInTest -INFO - Successfully navigated to NewTours Application
+2019-01-07 12:20:25,471 - NewTours_LogInTest -INFO - Enter the userName
+2019-01-07 12:20:26,592 - NewTours_LogInTest -INFO - Enter the password
+2019-01-07 12:24:04,199 - NewTours_LogInTest -INFO - Perfom click on logIN
+2019-01-07 12:24:04,207 - NewTours_LogInTest -INFO - LogIn Successfully - PASS
+2019-01-07 12:24:04,236 - NewTours_LogInTest -INFO - Application closed successfully

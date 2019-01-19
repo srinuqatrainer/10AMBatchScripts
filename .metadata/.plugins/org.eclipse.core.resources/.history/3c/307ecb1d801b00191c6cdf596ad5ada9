@@ -1,0 +1,12 @@
+package com.NewTours.TestScripts;
+
+import com.NewTours.utility.BaseClass;
+
+public class TC_101 extends BaseClass
+{
+
+	TC_101 c = new TC_101();
+	c.set
+	
+	
+}

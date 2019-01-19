@@ -1,0 +1,7 @@
+[main] INFO NewTours_LogInTest - Firefox browser opened successfully
+[main] INFO NewTours_LogInTest - Successfully navigated to NewTours Application
+[main] INFO NewTours_LogInTest - Enter the userName
+[main] INFO NewTours_LogInTest - Enter the password
+[main] INFO NewTours_LogInTest - Perfom click on logIN
+[main] INFO NewTours_LogInTest - LogIn Successfully - PASS
+[main] INFO NewTours_LogInTest - Application closed successfully
